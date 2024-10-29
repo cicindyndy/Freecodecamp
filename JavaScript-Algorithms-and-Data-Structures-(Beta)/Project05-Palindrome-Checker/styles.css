@@ -1,0 +1,23 @@
+/* file: styles.css */
+body{
+    background-color: #0a0a23;
+  
+  }
+  
+  h1{
+    background-color: #0a0a23;
+    color: #ffffff;
+    padding: 120;
+    text-align: center;
+  }
+  
+  .text-format{
+    background-color: #0a0a23;
+    color: #ffffff
+   
+  }
+  p{
+    background-color: #0a0a23;
+    color: #ffffff
+    
+  }
